@@ -33,3 +33,5 @@ Thus, it is more efficient to use location and month in case we want to achieve 
 
 ## Interactive map to represent crimes of a certain type
 The library folium is imported to represent the location of a certain type of crime. However, we have to limit the number of data that will be depicted in 5000, because the library does not support a larger number of points. 
+
+Collaborators: Ioannis Charamis (https://github.com/charamis) Dimitra Mavroforaki (https://github.com/dimitramav) 
